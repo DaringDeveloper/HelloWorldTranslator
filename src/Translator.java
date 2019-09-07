@@ -27,7 +27,7 @@ class MandarinTranslator extends Translator
 
 class FrenchTranslator extends Translator
 {
-	public String hello()  { return "?"; }
+	public String hello()  { return "salut"; }
 	public String world()  { return "?"; }
 }
 
