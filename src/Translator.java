@@ -28,6 +28,6 @@ class MandarinTranslator extends Translator
 class FrenchTranslator extends Translator
 {
 	public String hello()  { return "?"; }
-	public String world()  { return "?"; }
+	public String world()  { return "monde"; }
 }
 
