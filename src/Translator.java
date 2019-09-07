@@ -21,13 +21,13 @@ class EnglishTranslator extends Translator
 
 class MandarinTranslator extends Translator
 {
-	public String hello()  { return "Ni hao"; }
-	public String world()  { return "?"; }
+	public String hello()  { return "Nihao"; }
+	public String world()  { return "shijie"; }
 }
 
 class FrenchTranslator extends Translator
 {
 	public String hello()  { return "salut"; }
-	public String world()  { return "?"; }
+	public String world()  { return "monde"; }
 }
 
