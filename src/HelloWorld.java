@@ -14,6 +14,7 @@ class HelloWorld
 
 	public static String helloWorld(Vocabulary vocabulary)
 	{
+		// Branch: Master
 		return vocabulary.hello() + " " + vocabulary.world();
 	}
 }
