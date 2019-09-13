@@ -14,7 +14,7 @@ class HelloWorld
 
 	public static String helloWorld(Vocabulary vocabulary)
 	{
-		// Branch: Master
+		// refactor branch
 		return vocabulary.hello() + " " + vocabulary.world();
 	}
 }
